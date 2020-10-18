@@ -1,24 +1,11 @@
-# README
+# Herokutest
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This web application is created to solve issues which I met when deployed to heroku.
 
-Things you may want to cover:
 
-* Ruby version
+** Built with **
 
-* System dependencies
+* [Ruby 2.6.5](https://www.ruby-lang.org/en/)
 
-* Configuration
+* [Ruby on Rails 6.0.3](http://rubyonrails.org/)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
